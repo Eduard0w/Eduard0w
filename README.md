@@ -10,5 +10,5 @@
 <div>
   <a href="https://github.com/Eduard0w">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduard0w&show_icons=true&theme=transparent&hide_rank=true">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0w&langs_count=8&layout=compact&token=GH_TOKEN">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0w&langs_count=8&hide_progress=true&token=GH_TOKEN">
 </div>

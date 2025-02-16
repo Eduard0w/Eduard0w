@@ -1,12 +1,9 @@
 ## Hi there 👋, my name is Eduardo😎
 
-<!--
-- 🔭 Looking for a job opportunity😁
-- 🌱 Studying in UCSAL(Universidade Católica do Salvador) Software Engineer - Learning -> HTML, CSS, JS, JAVA
+- 🔭 Looking for job opportunities😁
+- 🌱 Studying Software Engineering at UCSAL (Universidade Católica do Salvador) - Learning HTML, CSS, JS, and Java"
 - 📫 How to reach me: eduardobritodasilva4@gmail.com
-- ⚡ Fun fact: I love to learn (Anything) and but in pratics what I learn
--->
-
+- ⚡ Fun fact: I love to learn new things and put them into practice.
 <div>
   <a href="https://github.com/Eduard0w">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduard0w&show_icons=true&theme=transparent&hide_rank=true">

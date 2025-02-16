@@ -2,7 +2,6 @@
 
 - 🔭 Looking for job opportunities😁
 - 🌱 Studying Software Engineering at UCSAL (Universidade Católica do Salvador) - Learning HTML, CSS, JS, and Java"
-- 📫 How to reach me: eduardobritodasilva4@gmail.com
 - ⚡ Fun fact: I love to learn new things and put them into practice.
 <div>
   <a href="https://github.com/Eduard0w">

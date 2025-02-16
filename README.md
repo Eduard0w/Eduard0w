@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, 
 
 <!--
-**Eduard0w/Eduard0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Looking for a job opportunity😁
+- 🌱 Studying in UCSAL(Universidade Católica do Salvador) Software Engineer - Learning -> HTML, CSS, JS, JAVA
+- 📫 How to reach me: eduardobritodasilva4@gmail.com
+- ⚡ Fun fact: I love to learn (Anything) and but in pratics what I learn
 -->
+
+<div>
+  <a href="https://github.com/Eduard0w">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduard0w&show_icons=true&theme=transparent&hide_rank=true">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0w&langs_count=8&layout=compact&token=GH_TOKEN">
+</div>

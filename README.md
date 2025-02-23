@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Eduardo😎
 
 - 🔭 Looking for job opportunities😁
-- 🌱 Studying Software Engineering at UCSAL (Universidade Católica do Salvador) - Learning HTML, CSS, JS, and Java"
+- 🌱 Studying Software Engineering at UCSAL (Universidade Católica do Salvador) - Learning HTML, CSS, JS, and Java.
 - ⚡ Fun fact: I love to learn new things and put them into practice.
 <div style="display: inline-block">
   <a href="https://github.com/Eduard0w">

@@ -5,8 +5,8 @@
 - "I love to learn new things and put them into practice".
 <div style="display: inline-block">
   <a href="https://github.com/Eduard0w">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduard0w&show_icons=true&theme=transparent&hide_rank=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0w&langs_count=8&theme=transparent&layout=compact"> 
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduard0w&show_icons=true&theme=transparent&hide_rank=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0w&langs_count=8&theme=transparent&layout=compact">  -->
 </div>
     
 <div style="display: inline_block"><br>
